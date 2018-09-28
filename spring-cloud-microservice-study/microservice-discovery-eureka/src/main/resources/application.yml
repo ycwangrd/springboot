@@ -1,0 +1,21 @@
+# 指定该Eurake实例的端口
+server:
+  port: 8761
+  address: 
+    
+spring:
+  application:
+    name: eureka
+
+# 指定Eurake实例的主机名
+eureka:
+  instance:
+    hostname: discovery
+  server:
+    enable-self-preservation: false # 自我保护机制开关
+    peer-node-connect-timeout-ms: 60000 # 读取对等节点服务器复制的超时的时间，单位为毫秒，默认为200
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/

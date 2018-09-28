@@ -1,0 +1,16 @@
+server:
+  port: 8021
+spring:
+  application:
+    name: microservice-consumer-movie-feign-with-hystrix
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://discovery:8761/eureka/
+    instance:
+      preferIpAddress: true
+
+feign:
+  hystrix:
+    enabled: true #为什么要默认关闭hystrix呢？请看这里：https://github.com/spring-cloud/spring-cloud-netflix/issues/1277

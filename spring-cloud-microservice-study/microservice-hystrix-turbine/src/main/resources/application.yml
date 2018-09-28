@@ -1,0 +1,10 @@
+server:
+  port: 8031
+spring:
+  application:
+    name: microservice-hystrix-turbine
+
+turbine:
+  aggregator:
+    cluster-config: default #指定那些集合,多个中间用','隔开,默认为default
+  app-config-list: 

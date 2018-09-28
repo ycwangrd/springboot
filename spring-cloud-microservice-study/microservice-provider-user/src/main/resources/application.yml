@@ -1,0 +1,36 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: microservice-provider-user # 项目名称(尽量小写)
+
+  jpa:
+    generate-ddl: true # 创建ddl语句
+    show-sql: true # 显示sql语句
+    hibernate:
+      ddl-auto: update
+
+# 数据源配置   
+  datasource:
+    platform: h2
+    schema: classpath:schema.sql
+    data: classpath:data.sql
+    continue-on-error: false
+    driver-class-name: org.h2.Driver
+    
+  logging:
+    level:
+      root: INFO
+      org.hibernate: INFO
+      org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+      org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
+      ths.project.study.microservice: ERROR
+
+  eureka:
+    client:
+      serviceUrl:
+        defaultZone: http://discovery:8761/eureka/  # 指定注册中心的地址
+
+      instance:
+        perferIpAddress: true
