@@ -1,8 +1,8 @@
 package ths.projects.study.dubbo.model;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import java.io.Serializable;
 
@@ -12,8 +12,8 @@ import java.io.Serializable;
  * @Desc:
  */
 @NoArgsConstructor
-@AllArgsConstructor
-@Data
+@Getter
+@Setter
 public class UserModel implements Serializable {
     private int id;
     private String name;
