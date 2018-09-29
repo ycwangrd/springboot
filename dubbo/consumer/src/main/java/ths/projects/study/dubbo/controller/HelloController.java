@@ -17,9 +17,17 @@ public class HelloController {
 
     @Reference(version = "1.0.0")
     private HelloService helloService;
+    
+    @Reference(version = "1.0.1")
+    private HelloService hello8Service;
 
     @GetMapping(value = "/sayHello")
     public String sayHello(String name) {
         return helloService.sayHello(name);
+    }
+    
+    @GetMapping(value = "/sayHello8")
+    public String sayHello8(String name) {
+        return hello8Service.sayHello(name);
     }
 }

@@ -3,7 +3,7 @@ package ths.projects.study.dubbo.service.impl;
 import com.alibaba.dubbo.config.annotation.Service;
 import ths.projects.study.dubbo.service.HelloService;
 
-import java.time.LocalDateTime;
+import java.util.Date;
 
 /**
  * @author: wangrd
@@ -15,7 +15,7 @@ public class HelloServiceImpl implements HelloService {
 
     @Override
     public String sayHello(String name) {
-        return "Hello, " + name + ", " + LocalDateTime.now();
+        return "Hello, " + name + ", " + new Date();
     }
 
 }
