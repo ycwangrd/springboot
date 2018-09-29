@@ -7,14 +7,12 @@ import ths.projects.study.dubbo.service.HelloService;
 
 import javax.annotation.PostConstruct;
 
-/**
- * @author wangrd
- */
 @SpringBootApplication
 public class ConsumerApplication {
 
     @Reference(version = "1.0.0")
     private HelloService helloService;
+
 
     public static void main(String[] args) {
         SpringApplication.run(ConsumerApplication.class, args);
@@ -25,4 +23,5 @@ public class ConsumerApplication {
         String sayHello = helloService.sayHello("world");
         System.err.println(sayHello);
     }
+
 }

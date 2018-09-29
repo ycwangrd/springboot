@@ -2,6 +2,7 @@ package ths.projects.study.dubbo.controller;
 
 import com.alibaba.dubbo.config.annotation.Reference;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import ths.projects.study.dubbo.service.HelloService;
 
@@ -10,7 +11,8 @@ import ths.projects.study.dubbo.service.HelloService;
  * @since: 2018年09月28日 16:29:24
  * @Desc:
  */
-@RestController(value = "/hello")
+@RestController
+@RequestMapping(value = "/hello")
 public class HelloController {
 
     @Reference(version = "1.0.0")
