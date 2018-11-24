@@ -1,0 +1,60 @@
+1542535400992|35|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id
+1542536665784|32|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id
+1542537637769|14|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542537637779|0|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542537637784|0|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542537637792|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542537637797|0|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542537695316|28|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id
+1542538590579|14|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538590589|0|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538590594|0|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538590599|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538590604|0|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538596298|21|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id
+1542538714657|36|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538714679|1|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538714689|1|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538714700|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538714709|1|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542538743309|18|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id
+1542539557112|15|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539557124|0|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539557130|0|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539557135|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539557140|0|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539668428|13|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539668440|0|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539668446|0|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539668453|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539668458|0|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539692592|16|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id
+1542539731734|14|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539731745|0|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539731750|0|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539731754|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539731759|0|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539746937|16|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id
+1542539783791|13|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539783803|0|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539783808|0|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539783812|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539783817|0|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542539788184|17|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id
+1542542177760|14|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542177770|0|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542177775|0|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542177781|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542177786|0|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542240076|13|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542240087|0|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542240092|0|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542240097|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542240102|0|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542251461|18|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id
+1542542455418|15|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542455430|0|statement|connection 1|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542455435|0|statement|connection 2|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542455439|0|statement|connection 3|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542455443|0|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|SELECT 1 FROM DUAL|SELECT 1 FROM DUAL
+1542542505967|18|statement|connection 4|url jdbc:p6spy:mysql://localhost:3306/boot-dev?useUnicode=true&characterEncoding=UTF-8&useSSL=false|select * from girl order by girl_id|select * from girl order by girl_id

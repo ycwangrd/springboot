@@ -1,16 +1,12 @@
-package ths.project.study.bootjsp;
+package ths.projects.study.bootredis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * @author wangrd
- * @version 2018-11-17 21:38:39
- */
 @SpringBootApplication
-public class BootjspApplication {
+public class BootredisApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BootjspApplication.class, args);
+        SpringApplication.run(BootredisApplication.class, args);
     }
 }
