@@ -1,15 +1,11 @@
 package ths.projects.study.java;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 /**
  * @author: wangrd
  * @since: 2019年01月07日 16:07:07
  * @Desc:
  */
 public class TestPeople {
-    private static final Logger logger = LoggerFactory.getLogger(TestPeople.class);
     String name;
 
     public TestPeople() {
